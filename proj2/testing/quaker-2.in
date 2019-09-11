@@ -1,0 +1,4 @@
+java -ea amazons.Main
+seed 12
+* time 30 90
+*remote move/win
