@@ -1,5 +1,5 @@
 # DataStructuresProjects
-Projects for UC Berkeley Data Structures 
+Projects for Data Structures 
 
 proj0: implement the puzzle game "Galaxies" by Simon Tatham
 http://www-inst.eecs.berkeley.edu/~cs61b/fa18/materials/proj/proj0/index.html
